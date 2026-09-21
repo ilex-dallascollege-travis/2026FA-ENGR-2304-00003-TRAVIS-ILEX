@@ -1,0 +1,20 @@
+Instructions
+Assignment: Create a C program (text file) to accomplish the following task:
+Create a C program that will output the following formatted that to the console
+
+Hello, World!
+
+Welcome to ENGR 2304 – Programming for Engineers at Dallas College
+
+
+Place the following comment header as the first line of your code
+ /* YYYYTT-CCCC-NNNN-SSSSS-PXX-LASTNAME-FIRSTNAME */ using the formatting outlined in Step 3.
+
+Rename the submission file as follows
+YYYYTT-CCCC-NNNN-SSSSS-PXX-LASTNAME-FIRSTNAME.EXT where
+Replace YYYY with year (e.g. 2020)
+Replace TT with (SP = Spring, FA = Fall, SU = Summer)
+Replace CCCC with course prefix (e.g. ENGR)
+Replace NNNN with course number (e.g. 1201)
+Replace SSSSS with section number (e.g. 83001)
+Replace AXX with the Program Number from the Title Above (e.g. P01, P02, etc)
