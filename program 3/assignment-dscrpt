@@ -1,0 +1,22 @@
+Complete and upload C program describes below:
+
+Allows user to select (via a men): the operation converting decimal numbers to binary or hex conversions
+
+Menu Option 1: Decimal to binary of binary to decimal (base 10)
+
+Complete a program that will accept an integer decimal number (base 10) as input and convert the number to binary (base 2).
+The number input can be between -127 to 127.
+The results is displayed as an 8-bit signed magnitude binary number. 
+Convert a binary number to decimal.
+The input binary number can be between -127 to 127 in binary. 
+The result is displayed in decimal
+
+
+Menu Option 2: Hex to binary and binary to hex
+
+Accept a positive number in binary or hexadecimal (hex numbers should start with 0x; binary number will be entered without designator)
+All numbers not entered with 0x designator will be considered as binary for this program.
+Convert the binary to hexadecimal (if binary number is entered) [up to 64-bit, with 32 bits on either side of the decimal point]
+Convert the number to binary (if a hexadecimal number is entered) [16-bit, 8 digits on either side of the decimal point, as needed]
+Display the result as a 64-bit binary number (32 bit on either side of the decimal point, as needed) or a 16-bit hexadecimal number (8 digits on either side of the decimal point, as needed).
+3. This Allow user to continue entering numbers until a "exit" is requested. 
