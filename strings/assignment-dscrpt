@@ -1,0 +1,8 @@
+Instructions
+1. Assignment: Create a PowerPoint slide presentation (minimum 10 slides) summarizing the following about the C programming language. It should include the following elements
+
+Summary of strings (purpose and syntax).
+Discuss string literals and string variables.
+Discuss writing string (with printf and puts)
+Discuss reading string (with scanf and gets).
+Discuss arrays of strings.
