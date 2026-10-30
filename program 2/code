@@ -1,8 +1,0 @@
-/* 2026FA-ENGR-2304-00003-P01-TRAVIS-ILEX.EXT*/
-
-#include <stdio.h>
-int main ()   {
-
-printf("Hello, World!\nWelcome to ENGR 2304- Programming for Engineers at Dallas College");
-return 0;
-}
