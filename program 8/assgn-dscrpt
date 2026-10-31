@@ -1,1 +1,10 @@
+Instructions
+1. Complete and upload C program that will accomplish the following utilizing CHATGPT:
 
+Get the number of players (1 vs computer) or 2 player mode.
+Present a Tic-Tac-Toe board to the user and allow them to select whether they are X’s or O’s.
+Randomly determine who is allowed to go first.
+Take input from the user and display the updated board with their move displayed.
+After a slight delay (pause), the board is updated with the move made by the computer or allow the 2nd player to input their move.
+If either player is successful in creating a winning pattern then notify of the result and prompt to pay again or end. If the choice is to play again, then return to step 1.
+2. Upload a text file containing the C code and the CHATGPT queries that you successfully compiled and executed to meet the assignment objectives. Click on the title above to submit the assignment. Attached the file to upload.
