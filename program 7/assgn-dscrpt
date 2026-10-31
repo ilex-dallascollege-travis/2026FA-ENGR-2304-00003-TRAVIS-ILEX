@@ -1,1 +1,9 @@
+Instructions
+1. Complete and upload C program that will accomplish the following:
 
+Read a comma delimited (CSV) or space delimited file of data.
+Perform an analysis of the data to determine common statistical parameter (mean, standard deviation, etc)
+Create a report the data.
+Provide a search function to the user.
+Organize the program in a menu format that will allow for option selection.
+Utilize at least one programmer written function in addition to man() within the program [not an included library].
