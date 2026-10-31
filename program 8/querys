@@ -1,0 +1,15 @@
+Query 1 — Create the initial program
+
+Write a complete C program for a Tic-Tac-Toe game. Allow the user to choose between one-player mode against the computer and two-player mode. Let Player 1 select X or O, and assign the other symbol to the opponent. Randomly select which participant goes first.
+Query 2 — Board and game logic
+
+Add a function to display the Tic-Tac-Toe board with positions numbered 1 through 9 until a move is made. Validate user input and prevent players from selecting occupied positions. Check all three rows, three columns, and both diagonals for a winning combination. Detect a draw when the board is full.
+Query 3 — Computer opponent and timing
+
+Add a computer opponent that randomly selects an available position. Add a short pause before the computer makes its move. Display the updated board after every move.
+Query 4 — Replay and input validation
+
+Add a play-again option that restarts the entire game without restarting the program. Allow the user to exit when finished. Validate game mode, symbol selection, board positions, and replay choices.
+Query 5 — Code review
+
+Review the complete C program for syntax errors, invalid array indexes, input-handling problems, and incorrect winner or draw detection. Keep the program compatible with a standard C compiler and include comments explaining the functions.
